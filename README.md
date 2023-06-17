@@ -1,7 +1,7 @@
 # Tolga-Ozd
 <h1 align="center">Hi there 👋 I'm Tolga Ozdilek </h1>
 <h3 align="center">A passionate Frontend Developer 😎 </h3>
-
+<p>Although my undergraduate degree is systems engineering, I have taught mathematics more in my professional life. Later, my interest in technology drew me to the field of software. And I'm so happy to be here ✨ </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tolga-Ozd&label=Profile%20views&color=0e75b6&style=flat" alt="tolga" /> </p>
 
 - 👨‍💻I'm Currently working on **Web developing** 
