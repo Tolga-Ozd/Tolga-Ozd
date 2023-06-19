@@ -1,7 +1,20 @@
 # Tolga-Ozd
 <h1 align="center">Hi there 👋 I'm Tolga Ozdilek </h1>
-<h3 align="center">A passionate Frontend Developer 😎 </h3>
-<p>Although my undergraduate degree is Systems Engineering, I have taught mathematics more in my professional life. Later, my interest in technology drew me to the field of software. And I'm so happy to be here ✨ </p>
+
+<h3 align="center">I'm a passionate Frontend Developer 😎 </h3>
+<p>
+* I am a Front End Developer who is open to development and loves to learn.
+
+* I tend to learn constantly because I think that continuous learning keeps people young and vigorous. There is always something new to learn.
+
+* I have a structure that focuses on his work, is highly motivated, and gives importance to the details of the work. I think my meticulousness is my biggest advantage when it comes to coding.
+
+* I know how to code HTML, CSS, Bootstrap, SASS&SCSS, JavaScript, React and use GitHub. Afterwards, I aim to become a talented Mobile Application Developer by learning React Native.
+
+* I'm a fan of clean, functional, workable and readable coding.
+
+* Although my undergraduate degree is Systems Engineering, I have taught mathematics more in my professional life. Later, my interest in technology drew me to the field of software. And I'm so happy to be here ✨ </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tolga-Ozd&label=Profile%20views&color=0e75b6&style=flat" alt="tolga" /> </p>
 
 - 👨‍💻I'm Currently working on **Web developing** 
