@@ -23,9 +23,10 @@
   ## My projects
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[Redux Django Blog App](https://django-redux-blog-app.vercel.app/)| React, React Redux, Material UI, Formik, Yup, Persist |![blog app](https://github.com/bengin34/bengin34/assets/118957608/6b9a6dfb-652b-4064-a630-639e7bcceb3a)
-[w3yz Galeri Page](https://w3yz-task.vercel.app/)| React, Tailwind CSS, Figma|![happygallery](https://github.com/bengin34/bengin34/assets/118957608/03d62da6-c6cf-4af5-bd89-fa5ca4d6342a)
-[TypeScript Gym Web Page](https://gym-type-script-muuq.vercel.app/)| Typescript, React, Tailwind CSS, Form Submit|![gym](https://user-images.githubusercontent.com/118957608/235475005-cb0d3997-c8ed-4f30-a209-4a0fabe39192.gif)
+
+<a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="50"/> </a> 
+
+
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
