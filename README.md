@@ -25,7 +25,7 @@
 ## My projects
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[ Bootstrap Blog App]| HTML Bootstrap Javascript |![blog app]([https://www.linkedin.com/posts/tolga-ozdilek_bootstrap-js-developer-activity-7079923773155532800-3CeH?utm_source=share&utm_medium=member_desktop](https://github.com/Tolga-Ozd/hc15_16_bootstrap-project.git)
+[Redux Django Blog App](https://django-redux-blog-app.vercel.app/)| React, React Redux, Material UI, Formik, Yup, Persist |![blog app](https://github.com/bengin34/bengin34/assets/118957608/6b9a6dfb-652b-4064-a630-639e7bcceb3a)
 
 
 </p>
