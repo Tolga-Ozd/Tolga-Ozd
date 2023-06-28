@@ -20,11 +20,11 @@
 - 💬 You can ask me about **anything or contact with me. This my email address: **ozdilektolga7140@gmail.com and this LinkedIn address: https://www.linkedin.com/in/tolga-ozdilek****
 
 - <p>
-  ## My projects
+## My projects
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-
-<a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="50"/> </a> 
+[Redux Django Blog App](https://django-redux-blog-app.vercel.app/)| React, React Redux, Material UI, Formik, Yup, Persist |![blog app](https://github.com/bengin34/bengin34/assets/118957608/6b9a6dfb-652b-4064-a630-639e7bcceb3a)
+[w3yz Galeri Page](https://w3yz-task.vercel.app/)| React, Tailwind CSS, Figma|![happygallery](https://github.com/bengin34/bengin34/assets/118957608/03d62da6-c6cf-4af5-bd89-fa5ca4d6342a)
 
 
 </p>
