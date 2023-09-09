@@ -44,7 +44,13 @@
     <a href="#" target="_blank"><img src="https://styled-components.com/logo.png" width="60" alt="styledcomponent"    /  </a>
     <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="tailwind" height="50"/></a> 
     <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="firebase" height="50"/> </a> 
-  </div>  
+  </div>
+  
+## My projects
+  Project Name & Live       |Libraries and Technologies I use     |How does my project look    |Repo link  
+:-------------------------|-------------------------|-------------------------|-------------------------
+[Jira Application ](https://task-project-kappa.vercel.app/)|HTML,CSS Frameworks,Axios,React Dom,Props DrillingComponent structure,useState and React Component |![Animation](https://github.com/Tolga-Ozd/Tolga-Ozd/assets/44951399/24d4429e-5a9c-4cab-ad57-d5f35f4fb12e)|[Repo Link](https://github.com/Tolga-Ozd/Jira-Application)
+
 
 
 
