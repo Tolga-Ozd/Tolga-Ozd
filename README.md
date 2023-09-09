@@ -52,6 +52,7 @@
 [Jira Application ](https://task-project-kappa.vercel.app/)|Axios,React Dom,Props DrillingComponent structure,useState and React Component |![Animation](https://github.com/Tolga-Ozd/Tolga-Ozd/assets/44951399/24d4429e-5a9c-4cab-ad57-d5f35f4fb12e)|[Repo Link](https://github.com/Tolga-Ozd/Jira-Application)
 [Ozel Ders Randevu Sistemi](https://ozel-ders-randevu.vercel.app/)|React bootstrap,Component structure,useState,React Component|![ozeldersrandevu](https://github.com/Tolga-Ozd/Tolga-Ozd/assets/44951399/dcd63f26-1fc0-4fda-a979-9b907e7ab702)|[Repo Link](https://github.com/Tolga-Ozd/Ozel-Ders-Randevu)
 [useState Project](https://use-state-project.vercel.app/)|React ,useState ,components structure,Props ,Javascript,|![RandomCourse](https://github.com/Tolga-Ozd/Tolga-Ozd/assets/44951399/9585900d-0260-41d4-b9fe-1ffa1f036b5d)|[Repo Link](https://github.com/Tolga-Ozd/useState-Project) 
+[Search App](https://tolga-ozd.github.io/Search-App/)|HTML,CSS,Js,React,Fetch Api,Api Rest|![Search App](https://github.com/Tolga-Ozd/Tolga-Ozd/assets/44951399/09fa076a-81bb-4716-93f9-71d71b57ecdd)|[Repo Link](https://github.com/Tolga-Ozd/Search-App)
 
 
 
