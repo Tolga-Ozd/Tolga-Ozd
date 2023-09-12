@@ -58,6 +58,7 @@
 [Add Your Tutorial](https://tutorial-app-orcin.vercel.app/)|Redux,Api,Data Fetched,Axios,useDispatch,Component structure,useState and React Component|![Tutorial App](https://github.com/Tolga-Ozd/Tolga-Ozd/assets/44951399/9c7a00f1-3324-4f2c-be4b-96678690a9e1)|[Repo Link](https://github.com/Tolga-Ozd/Tutorial-App)
 [Chooise Your Country](https://tolga-ozd.github.io/Countries/)|HTML, CSS , JS , Api,Data Fetched,Api|![Countries](https://github.com/Tolga-Ozd/Tolga-Ozd/assets/44951399/e05f4488-2d6c-4ccd-b4f1-a2b6957444c2)|[Repo Link](https://github.com/Tolga-Ozd/Countries)
 [Check Out App](https://tolga-ozd.github.io/Checkout-App/)|HTML, CSS , JS |![CheckOut App](https://github.com/Tolga-Ozd/Tolga-Ozd/assets/44951399/511ba632-347d-4feb-8d49-aa1c822b9c75)|[Repo Link](https://github.com/Tolga-Ozd/Checkout-App)
+[Gelir-Gider Tablo](https://tolga-ozd.github.io/Gelir-Gider-Tablo/)|HTML, CSS , JS |![Gelir-gider](https://github.com/Tolga-Ozd/Tolga-Ozd/assets/44951399/3419237f-0f46-4728-80db-b97b1845d892)|[Repo Link](https://github.com/Tolga-Ozd/Gelir-Gider-Tablo)
 
 
 
