@@ -6,7 +6,6 @@
 <p>
 <img src="https://media.giphy.com/media/SIi9Q5c5KMQhEUenYG/giphy.gif" align="right" width="400"></br>
 
-
   
 * <font color="pink"> I'm Systems Engineer, but I quit my job to be a developer 👨‍💻 </font>
 </br>
