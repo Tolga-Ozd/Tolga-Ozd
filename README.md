@@ -46,7 +46,7 @@
 ## My projects
   Project Name & Live       |Libraries and Technologies I use     |How does my project look    |Repo link  
 :-------------------------|-------------------------|-------------------------|-------------------------
-[Canada_Antakya.ca_App](https://canada-antakyaca.vercel.app/)|React,Typscript,Component structure,useState , React Component|![Canada_Antakya ca](https://github.com/Tolga-Ozd/Tolga-Ozd/assets/44951399/5eaa1240-c35b-4bee-b49b-cb0baeea1edb)|[Repo Link](https://github.com/Tolga-Ozd/Canada_Antakya)
+[Canada_Antakya.ca_App](https://canada-antakyaca.vercel.app/)|React,Typscript,MUI,Component structure,useState,React Component|![Canada_Antakya ca](https://github.com/Tolga-Ozd/Tolga-Ozd/assets/44951399/5eaa1240-c35b-4bee-b49b-cb0baeea1edb)|[Repo Link](https://github.com/Tolga-Ozd/Canada_Antakya)
 [Redux Shopping App ](https://reduxtoolkit-proje.vercel.app/)|Redux,Redux-toolkit,useDispatch,Component structure,useState , React Component|![Redux App](https://github.com/Tolga-Ozd/Tolga-Ozd/assets/44951399/a3088129-2f43-4dd3-8e28-c871906a5dcc)|[Repo Link](https://github.com/Tolga-Ozd/ReduxProje)
 [Legends App ](https://legends-ruddy.vercel.app/)|React bootstrap,Component structure,useState,React Component|![Legends App](https://github.com/Tolga-Ozd/Tolga-Ozd/assets/44951399/5264fd82-3cab-41c7-a4e5-a145923dc48b)|[Repo Link](https://github.com/Tolga-Ozd/Legends-Project)
 [Jira Application ](https://task-project-kappa.vercel.app/)|Axios,React Dom,Props DrillingComponent structure,useState and React Component |![Animation](https://github.com/Tolga-Ozd/Tolga-Ozd/assets/44951399/24d4429e-5a9c-4cab-ad57-d5f35f4fb12e)|[Repo Link](https://github.com/Tolga-Ozd/Jira-Application)
